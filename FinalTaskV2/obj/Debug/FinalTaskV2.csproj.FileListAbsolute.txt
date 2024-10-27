@@ -1,0 +1,7 @@
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\obj\Debug\FinalTaskV2.csproj.CoreCompileInputs.cache
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\bin\Debug\FinalTaskV2.exe.config
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\bin\Debug\FinalTaskV2.exe
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\bin\Debug\FinalTaskV2.pdb
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\obj\Debug\FinalTaskV2.exe
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\obj\Debug\FinalTaskV2.pdb
+G:\Учеба\GameDev\Курс Разработчик Unity3d Netologia\Итоговая работа по C#\FinalTaskV2\FinalTaskV2\obj\Debug\FinalTaskV2.csproj.AssemblyReference.cache
